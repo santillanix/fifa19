@@ -1,0 +1,16 @@
+[{
+    "name": "Any",
+    "code": "any"
+}, {
+    "name": "Bronze",
+    "code": "bronze"
+}, {
+    "name": "Silver",
+    "code": "silver"
+}, {
+    "name": "Gold",
+    "code": "gold"
+}, {
+    "name": "Special",
+    "code": "SP"
+}]

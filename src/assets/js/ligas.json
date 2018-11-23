@@ -1,0 +1,142 @@
+[{
+    "name": "Any",
+    "code": "-1"
+}, {
+    "name": "Premier League (ENG 1)",
+    "code": "13"
+}, {
+    "name": "EFL Championship (ENG 2)",
+    "code": "14"
+}, {
+    "name": "EFL League One (ENG 3)",
+    "code": "60"
+}, {
+    "name": "EFL League Two (ENG 4)",
+    "code": "61"
+}, {
+    "name": "Ligue 1 Conforama (FRA 1)",
+    "code": "16"
+}, {
+    "name": "Domino’s Ligue 2 (FRA 2)",
+    "code": "17"
+}, {
+    "name": "Serie A TIM (ITA 1)",
+    "code": "31"
+}, {
+    "name": "Calcio B (ITA 2)",
+    "code": "32"
+}, {
+    "name": "Bundesliga (GER 1)",
+    "code": "19"
+}, {
+    "name": "Bundesliga 2 (GER 2)",
+    "code": "20"
+}, {
+    "name": "3. Liga (GER 3)",
+    "code": "2076"
+}, {
+    "name": "LaLiga Santander (ESP 1)",
+    "code": "53"
+}, {
+    "name": "LaLiga 1 I 2 I 3 (ESP 2)",
+    "code": "54"
+}, {
+    "name": "Allsvenskan (SWE 1)",
+    "code": "56"
+}, {
+    "name": "Camp. Scotiabank (CHI 1)",
+    "code": "335"
+}, {
+    "name": "CSL (CHN 1)",
+    "code": "2012"
+}, {
+    "name": "Ekstraklasa (POL 1)",
+    "code": "66"
+}, {
+    "name": "Eliteserien (NOR 1)",
+    "code": "41"
+}, {
+    "name": "Eredivisie (NED 1)",
+    "code": "10"
+}, {
+    "name": "Finnliiga (FIN 1)",
+    "code": "322"
+}, {
+    "name": "Hellas Liga (GRE 1)",
+    "code": "63"
+}, {
+    "name": "Hyundai A-League (AUS 1)",
+    "code": "351"
+}, {
+    "name": "Icons (ICN)",
+    "code": "2118"
+}, {
+    "name": "K-League 1 (KOR 1)",
+    "code": "83"
+}, {
+    "name": "League of Russia (RUS 1)",
+    "code": "3006"
+}, {
+    "name": "LIGA Bancomer MX (MEX 1)",
+    "code": "341"
+}, {
+    "name": "Liga Dimayor (COL 1)",
+    "code": "336"
+}, {
+    "name": "Liga do Brasil (BRA 1)",
+    "code": "7"
+}, {
+    "name": "Liga Hrvatska (CRO 1)",
+    "code": "317"
+}, {
+    "name": "Liga NOS (POR 1)",
+    "code": "308"
+}, {
+    "name": "Meiji Yasuda J1 (JPN 1)",
+    "code": "349"
+}, {
+    "name": "Men's National (INT)",
+    "code": "78"
+}, {
+    "name": "MLS (MLS)",
+    "code": "39"
+}, {
+    "name": "Pro League (BEL 1)",
+    "code": "4"
+}, {
+    "name": "REWARDS (FUT)",
+    "code": "2150"
+}, {
+    "name": "RSL (SUI 1)",
+    "code": "189"
+}, {
+    "name": "SAF (ARG 1)",
+    "code": "353"
+}, {
+    "name": "Saudi Professional League (SAU 1)",
+    "code": "350"
+}, {
+    "name": "Scottish Prem (SPFL)",
+    "code": "50"
+}, {
+    "name": "South African FL (RSA 1)",
+    "code": "347"
+}, {
+    "name": "SSE Airtricity Lge (IRL 1)",
+    "code": "65"
+}, {
+    "name": "Süper Lig (TUR 1)",
+    "code": "68"
+}, {
+    "name": "Superliga (DEN 1)",
+    "code": "1"
+}, {
+    "name": "Ukrayina Liha (UKR 1)",
+    "code": "332"
+}, {
+    "name": "Ö. Bundesliga (AUT 1)",
+    "code": "80"
+}, {
+    "name": "Česká Liga (CZE 1)",
+    "code": "319"
+}]

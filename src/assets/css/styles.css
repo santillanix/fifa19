@@ -1,1 +1,23 @@
-/* You can add global styles to this file, and also import other style files */
+/*
+MAIN COLOR = #ECB417
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  font-size: 100%;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #f1f1f1;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
