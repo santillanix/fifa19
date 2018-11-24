@@ -1,0 +1,24 @@
+<form>
+  <h6>Calidad</h6>
+  <select name="calidad" [(ngModel)]="filtros.calidad">
+    <option *ngFor="let i of quality" value="{{i.code}}">{{i.name}}</option>
+  </select>
+  <h6>Posicion</h6>
+  <select name="posicion" [(ngModel)]="filtros.posicion">
+    <option *ngFor="let i of position" value="{{i.code}}">{{i.name}}</option>
+  </select>
+  <h6>Nacionalidad</h6>
+  <select name="nacionalidad" [(ngModel)]="filtros.nacionalidad">
+    <option *ngFor="let i of nacionalidad" value="{{i.code}}">{{i.name}}</option>
+  </select>
+  <h6>Ligas</h6>
+  <select name="liga" [(ngModel)]="filtros.liga">
+    <option *ngFor="let i of ligas" value="{{i.code}}">{{i.name}}</option>
+  </select>
+  <h6>Club</h6>
+  <select name="club" [(ngModel)]="filtros.club">
+    <option *ngFor="let i of club" value="{{i.code}}">{{i.name}}</option>
+  </select>
+  <button type="button" class="btn-yellow" (click)="lanzar()">Buscar</button>
+  <button type="button" class="btn-white" (click)="reset()">Reset</button>
+</form>

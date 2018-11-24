@@ -1,1 +1,49 @@
-/* You can add global styles to this file, and also import other style files */
+/*
+    main_color = #ECB417
+    main_color_dark = #DBA306
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+  text-decoration: none;
+}
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f2f2f2;
+}
+
+.white-box {
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.4);
+  padding: 15px;
+}
+
+.btn-yellow {
+  background-color: #ECB417;
+  color: #444444;
+}
+
+.btn-yellow:hover {
+  background-color: #DBA306;
+}
+
+.btn-white {
+  background-color: #cccccc;
+  color: #444444;
+}
+
+.btn-white:hover {
+  background-color: #bbbbbb;
+}

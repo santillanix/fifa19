@@ -73,5 +73,5 @@ main {
   left: 200px;
   right: 0;
   overflow: auto;
-  padding: 15px;
+  padding: 15px 0;
 }

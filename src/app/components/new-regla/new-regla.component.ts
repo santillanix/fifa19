@@ -10,6 +10,11 @@ export class NewReglaComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+
+  }
+
+  buscar(filtros) {
+    console.log(filtros)
   }
 
 }
