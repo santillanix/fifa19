@@ -12,5 +12,5 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json())
 
 app.listen(port, function () {
-    console.log(`Server Funcionando por el puerto ${port}`)
+    console.log(`Server Funcionando por el puerto ${port}`);
 })
