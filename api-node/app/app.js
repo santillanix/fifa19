@@ -4,13 +4,14 @@ var express = require('express');
 var bodyParser = require('body-parser');
 
 var app = express();
-var port = process.env.PORT || 4100
+var api = require('./routes');
+
 
 app.use(bodyParser.urlencoded({
     extended: false
 }))
 app.use(bodyParser.json())
+app.use('/api', api)
 
-app.listen(port, function () {
-    console.log(`Server Funcionando por el puerto ${port}`);
-})
+
+module.exports = app
