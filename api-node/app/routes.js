@@ -6,6 +6,7 @@ var api = express.Router()
 var mercado = require('./controllers/mercado')
 
 //Rutas
-api.get('/prueba', mercado.buscarMercado)
+api.get('/prueba/*', mercado.buscarMercado)
+api.get('/saludo', mercado.saludar)
 
 module.exports = api
